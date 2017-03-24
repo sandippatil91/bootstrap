@@ -1,0 +1,13 @@
+.center{text-align: center;}
+.footer{text-align: center;background-color: #3C3C3C;color:white;padding-bottom:10px;   }
+.footer h4{text-transform: capitalize; text-align: left; color: aquamarine;}
+.footer ul{list-style-type: none;margin:0;padding: 0px;}
+.footer li{text-align: left;}
+.footer li a{text-decoration: none;margin:0px;padding:5px;color:white;}
+.footer li a:hover{text-decoration: underline;color:lightskyblue;}
+.left {text-align: left;}
+.pad{padding:10px;}
+.modle1{margin-bottom:10px;}
+.image:hover{visibility: visible;}
+.navpad{padding-left:0px;padding-right: 0px;}
+.show{box-shadow: 3px 5px 3px gray;}
